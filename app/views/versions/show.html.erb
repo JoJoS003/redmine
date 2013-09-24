@@ -24,6 +24,10 @@
     <th><%= l(:label_spent_time) %></th>
     <td class="total-hours"><%= html_hours(l_hours(@version.spent_hours)) %></td>
 </tr>
+<tr>
+    <th><%= l(:label_remaining_time) %></th>
+    <td class="total-hours"><%= html_hours(l_hours(@version.remaining_hours)) %></td>
+</tr>
 <% end %>
 </table>
 </fieldset>

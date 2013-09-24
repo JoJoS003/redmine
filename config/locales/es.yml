@@ -613,6 +613,7 @@ es:
   label_sort_lower: Bajar
   label_sort_lowest: Último
   label_spent_time: Tiempo dedicado
+  label_remaining_time: Tiempo restante
   label_start_to_end: principio a fin
   label_start_to_start: principio a principio
   label_statistics: Estadísticas

@@ -559,6 +559,7 @@ nl:
   label_sort_lower: Verplaats naar beneden
   label_sort_lowest: Verplaats naar eind
   label_spent_time: Gespendeerde tijd
+  label_remaining_time: Resterende tijd
   label_start_to_end: start tot eind
   label_start_to_start: start tot start
   label_statistics: Statistieken
